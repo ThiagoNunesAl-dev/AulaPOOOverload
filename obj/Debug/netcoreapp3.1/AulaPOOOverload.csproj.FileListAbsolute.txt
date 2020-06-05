@@ -1,0 +1,13 @@
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\bin\Debug\netcoreapp3.1\AulaPOOOverload.exe
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\bin\Debug\netcoreapp3.1\AulaPOOOverload.deps.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\bin\Debug\netcoreapp3.1\AulaPOOOverload.runtimeconfig.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\bin\Debug\netcoreapp3.1\AulaPOOOverload.runtimeconfig.dev.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\bin\Debug\netcoreapp3.1\AulaPOOOverload.dll
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\bin\Debug\netcoreapp3.1\AulaPOOOverload.pdb
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\obj\Debug\netcoreapp3.1\AulaPOOOverload.csprojAssemblyReference.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\obj\Debug\netcoreapp3.1\AulaPOOOverload.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\obj\Debug\netcoreapp3.1\AulaPOOOverload.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\obj\Debug\netcoreapp3.1\AulaPOOOverload.AssemblyInfo.cs
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\obj\Debug\netcoreapp3.1\AulaPOOOverload.dll
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\obj\Debug\netcoreapp3.1\AulaPOOOverload.pdb
+C:\Users\thiag_000\Projetos\C#\AulaPOOOverload\obj\Debug\netcoreapp3.1\AulaPOOOverload.genruntimeconfig.cache
